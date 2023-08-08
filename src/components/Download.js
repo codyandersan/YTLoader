@@ -154,7 +154,7 @@ const Download = (props) => {
     //     setIsLoading(false);
     // };`
     return (
-        <div className="container my-2 flex items-center justify-center px-3">
+        <div className="container flex items-center justify-center px-3">
             <div className="card w-96  bg-primary text-primary-content">
                 <div className="card-body text-center ">
                     {isLoading && <>

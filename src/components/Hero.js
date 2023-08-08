@@ -11,7 +11,7 @@ import img7 from "./assets/img7.jpeg"
 
 const Hero = () => {
     return (
-        <div className="container flex w-screen ">
+        <div className="-mt-5 -mb-5 container flex w-screen ">
             <div className="hidden md:grid hero m-0 p-0 md:w-1/2">
                 <div className="hero-content flex-col md:flex-row text-center">
                     <div className="max-w-md">
